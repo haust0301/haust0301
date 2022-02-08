@@ -25,6 +25,6 @@
     <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a>
   <a href="mailto:phanthanhhaust@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/50/000000/mailing.png"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>
 </p>
