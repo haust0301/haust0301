@@ -6,23 +6,25 @@
 - 🌱 I’m currently learning **MERN Stack.**
 
 
+
+
+## Skills:
+
 ## 📫 Contact with me
 <p align="center">
-  <a href="https://www.facebook.com/hauhau0301" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  <a href="https://www.facebook.com/hauhau0301" alt="Facebook" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
   </a> 
-  <a href="https://github.com/haust0301" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://github.com/haust0301" alt="Github" target="_blank" >
+    <img src="https://img.icons8.com/cute-clipart/64/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCvJYMsjATmsdaI9kMRmg1Xw" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/youtube-squared.png"/>
   </a>
   <a href="https://www.tiktok.com/@tuitenhau" alt="Tiktok" target="_blank" >
-    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a>
   <a href="mailto:phanthanhhaust@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-
-## Skills:
