@@ -24,7 +24,10 @@
   <a href="https://www.tiktok.com/@tuitenhau" alt="Tiktok" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a>
-  <a href="mailto:phanthanhhaust@gmail.com" alt="Email">
+  <a href="mailto:phanthanhhaust@gmail.com" alt="Email" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
+  </a>
+  <a href="https://www.instagram.com/_thnh.h/" alt="Email">
+    <img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/>
   </a>
 </p>
