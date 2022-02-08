@@ -9,6 +9,7 @@
 
 
 ## 🛠️ My Skills
+### ⚡ Main skills
 <p align="center">
   <a href="https://www.w3schools.com/html/" alt="HTML" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
