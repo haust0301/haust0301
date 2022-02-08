@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
   </a> 
   <a href="https://github.com/haust0301" alt="Github" target="_blank" >
-    <img src="https://img.icons8.com/cute-clipart/64/000000/github.png"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCvJYMsjATmsdaI9kMRmg1Xw" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/000000/youtube-squared.png"/>
@@ -25,6 +25,6 @@
     <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a>
   <a href="mailto:phanthanhhaust@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mailing.png"/>
   </a>
 </p>
