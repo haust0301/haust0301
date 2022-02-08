@@ -8,7 +8,36 @@
 
 
 
-## Skills:
+## 🛠️ My Skills
+<p align="center">
+  <a href="https://www.w3schools.com/html/" alt="HTML" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/default.asp" alt="CSS" target="_blank" >
+    <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+  </a> 
+  <a href="https://www.w3schools.com/js/default.asp" alt="JS" target="_blank" >
+    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+  </a> <br>
+  <a href="https://nodejs.org/en/" alt="Nodejs" target="_blank" >
+    <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+  </a> &nbsp;
+  <a href="https://www.php.net/" alt="PHP" target="_blank" >
+    <img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
+  </a> <br>
+  <a href="https://vuejs.org/" alt="Vuejs">
+    <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
+  </a>
+  <a href="https://reactjs.org/" alt="Reactjs">
+    <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
+  </a> <br>
+  <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_apac_vietnam_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624377&adgroup=115749709583&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-xE54P2Cykq2tjsjOcDmCl_7mCJuGUdhUUxfJrrUbQ5eQx5k-rRJDwaApZBEALw_wcB" alt="MogoDB">
+    <img src="https://img.icons8.com/color/50/000000/mongodb.png"/>
+  </a>
+  <a href="https://www.mysql.com/" alt="MySQL">
+    <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
+  </a>
+</p>
 
 ## 📫 Contact with me
 <p align="center">
