@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phan Thanh Hau</h1>
+<h1 align="center">Hi guys 👋, I'm Phan Thanh Hau</h1>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
 - ✍ I'm a student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
