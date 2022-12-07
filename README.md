@@ -51,7 +51,7 @@
   <a href="https://www.youtube.com/channel/UCvJYMsjATmsdaI9kMRmg1Xw" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/000000/youtube-squared.png"/>
   </a>
-  <a href="https://www.tiktok.com/@tuitenhau" alt="Tiktok" target="_blank" >
+  <a href="#" alt="Tiktok" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a>
   <a href="mailto:phanthanhhaust@gmail.com" alt="Email" target="_blank" >
